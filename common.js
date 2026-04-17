@@ -1,4 +1,4 @@
-const API_BASE = "https://script.google.com/macros/s/AKfycbyTC3sRzMpo6oP2TAQlIZ9JsIBtuUr9-zgxLszaMqqwxBZJGb01xU4xeMvtchkV_zfs/exec";
+const API_BASE = "https://script.google.com/macros/s/AKfycbzKZUT0s87ZN4xNmYLydM8c67IhEkgoUFZzMH32N-lQ9pQx9M_561VfqP4cW_b0MQFE/exec";
 
 async function apiFetch(payload) {
   // payload is an object with at least `action` property
